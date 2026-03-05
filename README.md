@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: 
+**URL**: https://pothole-ai-detection.vercel.app/
 
 ## What technologies are used for this project?
 
